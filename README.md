@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imed Simaoui</h1>
+<h1 align="center">Hi 👋, I'm Imed</h1>
 <h3 align="center">An two-year technical degree (SIO) student</h3>
 
 - 🔭 I’m currently working on [srdeveloppement](srdeveloppement.fr/)

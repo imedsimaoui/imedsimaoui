@@ -1,23 +1,121 @@
-<h1 align="center">Hi 👋, I'm Imed</h1>
-<h3 align="center">An two-year technical degree (SIO) student</h3>
+<!-- README.md -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- 🌍 IMED SIMAOUI - GITHUB PROFILE -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-- 🔭 I’m currently working on [srdeveloppement](srdeveloppement.fr/)
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Imed Simaoui</span></h1>
 
-- 🌱 I’m currently learning **HTML,CSS,C#,C++,C,Python**
-
-- 👨‍💻 All of my projects are available at (srdeveloppement.fr/)
-
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **isimaoui@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sr_developpement" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_developpement" height="30" width="40" /></a>
+<p align="center">
+  <b>Software & Web Developer</b> | <b>Cybersecurity Enthusiast</b> | <b>Open to Work</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Code+your+vision+%F0%9F%92%BB;Build+with+logic+%26+creativity+%F0%9F%9A%80;Keep+learning%2C+keep+building+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imedinhoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/imedinhoo" /></a></p><br><br>
+---
+
+### 🧠 About Me
+
+🎓 I'm currently pursuing a **Bachelor’s Degree in Computer Science** at **UPJV (Université de Picardie Jules Verne)** — majoring in **Software Design, Development & Testing**.  
+💻 Passionate about **backend systems, software architecture, and cybersecurity**, I love building projects that combine **performance, security, and clarity**.  
+🚀 Experienced in both **solo development** and **agile teamwork**, I aim to bring real technical value wherever I work.  
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,nodejs,php,html,css,js,sql,git,linux,docker,fastapi,react" />
+</p>
+
+---
+
+### 🧩 Featured Project — <a href="https://github.com/ImedSIO/HoneyTrace">HoneyTrace</a>
+
+🐝 A minimalist **honeypot** built in Python, simulating vulnerable HTTP & SSH servers to analyze intrusion attempts.  
+
+**Tech highlights:**
+- Asynchronous networking with `asyncio` & `asyncssh`
+- Real-time dashboard built with **FastAPI**
+- Log storage in **NDJSON** for post-analysis
+- Dockerized & fully isolated sandbox
+
+📊 A learning-focused project combining **network programming** and **cyber defense basics**.
+
+<p align="center">
+  <a href="https://github.com/ImedSIO/HoneyTrace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImedSIO&repo=HoneyTrace&theme=tokyonight&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+---
+
+### 💼 Professional Experience
+
+**Freelance Developer – SR Développement**  
+*Jan 2024 – Present*  
+- Designed and built complete web applications using **HTML, CSS, JS, PHP**  
+- Defined technical specifications & produced maintainable documentation  
+- Delivered functional, responsive, and optimized websites for local clients  
+
+**Network Administration Intern – Konecta (Amiens)**  
+*Mar 2021 – Jun 2021*  
+- Managed company’s network infrastructure and performed system maintenance  
+- Diagnosed and resolved connectivity issues  
+- Improved network stability and performance  
+
+---
+
+### 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version_Control-Git-F05032?logo=git&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImedSIO&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImedSIO&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imed-simaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Imed%20Simaoui-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:isimaoui@gmail.com">
+    <img src="https://img.shields.io/badge/Email-isimaoui%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://simaoui-imed.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-simaoui--imed.vercel.app-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+### 💬 Languages
+- 🇫🇷 French — Native  
+- 🇬🇧 English — C1 (Fluent)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImedSIO&style=flat-square&color=blue" alt="Profile views counter" />
+</p>
+
+<p align="center">
+  <i>“Turning ideas into reliable code.”</i> 💡
+</p>
+
+---

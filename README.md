@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Code+your+vision+%F0%9F%92%BB; Build+with+logic+%26+creativity+%F0%9F%9A%80;Keep+learning%2C+keep+building+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Code+your+vision+%F0%9F%92%BB;BBuild+with+logic+%26+creativity+%F0%9F%9A%80;Keep+learning%2C+keep+building+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
